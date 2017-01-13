@@ -1,0 +1,27 @@
+{
+    "name": "wyra",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name":     "Raffael Wyss",
+            "email":    "raffael.wyss@gmail.com",
+            "homepage": "http://wyssinet.ch",
+            "role":     "Developer"
+        }
+    ],
+    "license": [
+        "BSD License"
+    ],
+    "support": {
+        "email":        "support@wyssinet.ch"
+    },
+    "require": {
+        "php":  "^5.5 || ^7.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": { "Wyra\\": "src/" }
+    }
+}

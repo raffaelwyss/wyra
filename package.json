@@ -1,0 +1,23 @@
+{
+    "name":     "wyra",
+    "version":  "0.0.1",
+    "authors": [
+        {
+            "name":     "Raffael Wyss",
+            "email":    "raffael.wyss@gmail.com",
+            "homepage": "http://wyssinet.ch",
+            "role":     "Developer"
+        }
+    ],
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/raffaelwyss/wyra.git"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    }
+}
