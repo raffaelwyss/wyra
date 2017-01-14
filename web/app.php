@@ -3,6 +3,7 @@
 namespace Wyra;
 
 use Wyra\Kernel\Kernel;
+use Wyra\Plugins\Base\Controller\Home;
 
 /**
  * Exception-Handler of WyRa
