@@ -16,7 +16,8 @@
         "email":        "support@wyssinet.ch"
     },
     "require": {
-        "php":  "^5.5 || ^7.0"
+        "php":  "^5.5 || ^7.0",
+        "smarty/smarty": "^3.1"
     },
     "require-dev": {
 
